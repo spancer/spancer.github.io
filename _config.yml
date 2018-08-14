@@ -4,8 +4,8 @@
 
 # Site
 title: 酷米云计算
-subtitle: 
-description:
+subtitle: 深度学习
+description: 丰富的电商平台、大数据平台架构、实时数据分析、搜索、数据挖掘、机器学习经验，为您提供定制化的研发解决方案。
 keywords:
 author: spancer
 language: zh-Hans
@@ -74,12 +74,13 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: yilia
+#theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:spancer/spancer.github.io.git
+  repo: https://github.com/spancer/spancer.github.io.git
   branch: [master]
   
 
